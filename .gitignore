@@ -19,3 +19,8 @@ gradle-app.setting
 !gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+.idea/
+*.iws
+*.iml
+*.ipr
